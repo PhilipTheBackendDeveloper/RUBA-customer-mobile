@@ -56,6 +56,9 @@ export default function SignUpScreen() {
     });
   };
 
+
+  
+
   const handleSignIn = () => {
     // Navigate to sign in screen (you can create this later)
     Alert.alert('Sign In', 'Sign in functionality will be implemented');
