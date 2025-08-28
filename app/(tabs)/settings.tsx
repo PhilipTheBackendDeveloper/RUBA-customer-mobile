@@ -38,6 +38,8 @@ interface SettingItem {
   destructive?: boolean
 }
 
+
+
 interface SettingSection {
   id: string
   title: string
